@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;work&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../untitled/src/main" />
+      <root url="file://E:/golangproject/src/golang.org" />
+      <root url="file://E:/golangproject/src/github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../untitled/src/main" />
+      <root url="file://E:/golangproject/src/golang.org" />
+      <root url="file://E:/golangproject/src/github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
